@@ -8,4 +8,3 @@ PROGRAMACIÓN WEB
 3. No es necesario descargar ninguna librería.
 4. Deberá abrir el proyecto en Visual  Studio Code.
 5. Para ejecutarlo deberá acceder a (index.html) y en la parte superior dirigirse a (Run) y (Start Debugging) y elegir el navegador de su preferencia.
-GJWFKDSL
