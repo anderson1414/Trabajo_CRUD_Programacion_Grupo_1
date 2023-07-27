@@ -4,4 +4,6 @@
 2. Si se descarga en archivo Zip deberá extraerlo en su pc.
 3. No es necesario descargar ninguna librería.
 4. Deberá abrir el proyecto en Visual  Studio Code.
-5. Para ejecutarlo deberá acceder a (index.html) y en la parte superior dirigirse a (Run) y (Start Debugging) y elegir el navegador de su preferencia.
+5. Para ejecutarlo de manera adecuada deberá acceder a (portada.html) y en la parte superior dirigirse a (Run) y (Start Debugging) y elegir el navegador de su preferencia.
+6. Una vez ejecutado el proyecto se podra visualizar en su navegador y podra interactuar con el mismo.
+GRACIAS.
