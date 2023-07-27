@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Georgia, serif;
 }
 
 
@@ -15,6 +16,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: Georgia, serif;
 }
 
 .div-titulo h1 {
@@ -26,20 +28,22 @@ body {
     height: calc(100vh - 100px);
     display: flex;
     justify-content: center;
+    font-family: Georgia, serif;
 }
 
 /* ESTILOS FORMULARIO */
 .contenedor .div-formulario {
-    width: 40%;
-    height: 350px;
+    width: 30%;
+    height: 400px;
     margin: 15px 15px;
-    background-color: rgb(131, 0, 0);
+    background-color: rgb(98, 191, 245);
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     border-radius: 10px;
-    box-shadow: 10px 10px rgba(255, 255, 255, 0.3);
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.3);
+    font-family: Georgia, serif;
 }
 
 .contenedor .div-formulario h2 {
@@ -56,6 +60,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    font-family: Georgia, serif;
 }
 
 .contenedor .div-formulario form input,
@@ -68,21 +73,22 @@ body {
 /* ESTILOS LISTADO */
 .contenedor .div-listado {
     width: 55%;
-    height: calc(100% - 50px);
+    height: calc(82.5% - 50px);
     margin: 15px 15px;
-    background-color: rgb(135, 132, 132);
+    background-color: rgb(216, 241, 223);
     display: flex;
     flex-direction: column;
     align-items: center;
     border-radius: 10px;
-    box-shadow: 10px 10px rgba(0, 0, 0, 0.3);
+    box-shadow: 10px 10px rgba(5, 0, 0, 0.3);
+    font-family: Georgia, serif;
 }
 
-.contenedor .div-listado h2 {
+.contenedor .div-listado h3 {
     margin-top: 10px;
     font-weight: 300;
     font-size: 2em;
-    color: rgb(245, 245, 245);
+    color: rgb(0, 0, 0);
 }
 
 .contenedor .div-listado .div-estudiantes {
@@ -93,12 +99,13 @@ body {
     align-items: center;
     margin: 15px;
     padding: 0 30px;
+    font-family: Georgia, serif;
 }
 
 .contenedor .div-listado .div-estudiantes p {
     margin: 10px 0;
     font-size: 1em;
-    color: #ddd;
+    color: #000000;
 }
 
 hr {
@@ -107,6 +114,7 @@ hr {
 }
 
 .btn {
+    width: 18%;
     padding: 5px 10px;
     border: none;
     margin: 0 5px;
@@ -115,9 +123,43 @@ hr {
 }
 
 .btn-editar {
-    background-color: green;
+    padding: 5px 10px;
+    border: none;
+    margin: 0 5px;
+    color: white;
+    border-radius: 50px;
+    background-color: rgb(0, 128, 0);
+    font-family: Georgia, serif;
 }
 
 .btn-eliminar {
-    background-color: red;
+    padding: 5px 10px;
+    border: none;
+    margin: 0 5px;
+    color: white;
+    border-radius: 50px;
+    background-color: rgb(155, 0, 0);
+    font-family: Georgia, serif;
 }
+.btn-contiuar{
+     padding: 5px 10px;
+    border: none;
+    margin: 0 5px;
+    color: white;
+    border-radius: 50px;
+    background-color: rgb(128, 0, 0);
+    font-family: Georgia, serif;
+}
+
+body {
+    justify-content: center;
+    height: 100vh;
+    
+}
+
+h2 {
+    text-align: center;
+}
+h1 {
+    font-weight: bold;
+  }
