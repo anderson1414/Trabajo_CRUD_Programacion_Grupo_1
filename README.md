@@ -1,6 +1,6 @@
 # Trabajo CRUD Programacion Grupo_1
 # UNIVERSIDAD NACIONAL DE LOJA
-_*Proceso de descarga y correcto funcionamiento del proyecto*_
+_Proceso de descarga y correcto funcionamiento del proyecto_
 1. Para descargarlo se debe seleccionar el archivo (proyecto_crud_grupo_x.zip; index.html; estilos.css; app.js) y en la parte superior derecha aparecerá el icono de descargar, posterior a ello se se descarga y se guarda en el ordenador.
 2. Si se descarga en archivo Zip deberá extraerlo en su pc.
 3. No es necesario descargar ninguna librería.
